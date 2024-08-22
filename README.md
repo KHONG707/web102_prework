@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-
-![SeaMonsterCrowdfundingProject](https://github.com/user-attachments/assets/ec5d6e41-9ff4-43b2-ad39-41d2346867dc)
+![SeaMonsterCrowdfundingProject](https://github.com/user-attachments/assets/e261e28d-2177-4947-b490-7ae51c328318)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
