@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ![SeaMonsterCrowdfundingProject](https://github.com/user-attachments/assets/ec5d6e41-9ff4-43b2-ad39-41d2346867dc)
 
 
