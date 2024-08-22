@@ -24,10 +24,11 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Kapture 2024-08-21 at 19 59 33](https://github.com/user-attachments/assets/ea79ee50-3b08-4830-a132-8d4d5e851bdd)
+![SeaMonsterCrowdfundingProject](https://github.com/user-attachments/assets/ec5d6e41-9ff4-43b2-ad39-41d2346867dc)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap(https://getkap.co/)
+GIF created with [Kap](https://getkap.co/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
