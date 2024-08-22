@@ -196,6 +196,3 @@ function filterGamesBySearch() {
 // Grab the search bar element
 const searchBar = document.getElementById('search-bar');
 searchBar.addEventListener('input', filterGamesBySearch);
-
-// Initial call to display all games
-addGamesToPage(GAMES_JSON);
